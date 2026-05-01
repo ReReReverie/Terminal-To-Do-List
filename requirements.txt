@@ -1,0 +1,2 @@
+# This project only uses Python built-in libraries (json, os, datetime).
+# No external dependencies are currently required.
